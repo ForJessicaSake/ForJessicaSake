@@ -4,7 +4,7 @@ Hi 👋 I'm Jessica
 A Frontend Web Developer
 ------------------------
 
-Who resides in Lagos, Nigeria. My job is to create attractive websites that users can easily interact with using the latest web technologies. I am a senior studying computer science at the University of Nigeria and currently, I am seeking an entry level job in Frontend web development to enable me utilize my digital skills and gain industry knowledge. Asides all of this, in my free time I enjoy listening to afro beats and playing chess.
+Who resides in Lagos, Nigeria. I create attractive websites that users can easily interact with using the latest web technologies. I am a senior studying computer science at the University of Nigeria and currently, I am seeking an entry level job in Frontend web development to enable me utilize my digital skills and gain industry knowledge. Asides all of this, in my free time I enjoy listening to afro beats and playing chess.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my resume at [Resume](https://tryrezu.com/rz/Forjessicasake)
