@@ -7,7 +7,7 @@ A Frontend Web Developer
 Who resides in Lagos, Nigeria. My job is to create attractive websites that users can easily interact with. I am a senior studying computer science at the University of Nigeria and currently, I am seeking an entry level job in Frontend web development to enable me utilize my digital skills and gain industry knowledge. Asides all of this, in my free time I enjoy listening to afro beats and playing chess.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [Portfolio](http://jessicajosephpersonalportfolio.netlify.app)
+* 🖥️  See my resume at [Portfolio](https://tryrezu.com/rz/Forjessicasake)
 * ✉️  You can contact me at [jessicajoseph2019@yahoo.com](mailto:jessicajoseph2019@yahoo.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on interesting projects
