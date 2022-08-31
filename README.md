@@ -1,11 +1,10 @@
-Hi 👋 I'm Jessica
+Hi 👋 I'm Jessie
 ========================
 
 A Frontend Developer
 ------------------------
 
-Who resides in Lagos, Nigeria. I create user interactive websites, using the latest web technologies.
-
+who creates interactive web applications using the latest web technologies.
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my resume at [Resume](https://tryrezu.com/rz/Forjessicasake)
 * ✉️  You can contact me at [jessicajoseph2019@yahoo.com](mailto:jessicajoseph2019@yahoo.com)
