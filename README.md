@@ -9,7 +9,7 @@ Who resides in Lagos, Nigeria. I create attractive websites that users can easil
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my resume at [Resume](https://tryrezu.com/rz/Forjessicasake)
 * ✉️  You can contact me at [jessicajoseph2019@yahoo.com](mailto:jessicajoseph2019@yahoo.com)
-* 🧠  I'm mastering React
+* 🧠  I'm mastering Nextjs
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
