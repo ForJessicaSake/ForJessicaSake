@@ -4,7 +4,7 @@ Hi 👋 I'm Jess
 A Frontend Developer
 ------------------------
 
-Who resides in Lagos, Nigeria. I create user interactive websites, using the latest web technologies. In my free time, I enjoy listening to R&B while playing chess.
+Who resides in Lagos, Nigeria. I create user interactive websites, using the latest web technologies.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my resume at [Resume](https://tryrezu.com/rz/Forjessicasake)
