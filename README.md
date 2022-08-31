@@ -1,4 +1,4 @@
-Hi 👋 I'm Jess
+Hi 👋 I'm Jessica
 ========================
 
 A Frontend Developer
