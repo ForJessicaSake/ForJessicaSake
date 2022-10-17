@@ -6,7 +6,7 @@ A Frontend Developer
 
 who creates interactive web applications using the latest web technologies.
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my resume at [Resume](https://tryrezu.com/rz/Forjessicasake)
+* 🖥️  See my resume at [Resume](https://drive.google.com/file/d/1MiLC3sn1jZN08Md_NCssT61b0vTlIJxf/view?usp=sharing)
 * ✉️  You can contact me at [jessicajoseph2019@yahoo.com](mailto:jessicajoseph2019@yahoo.com)
 * 🧠  I'm mastering Nextjs
 * 🤝  I'm open to collaborating on interesting projects
