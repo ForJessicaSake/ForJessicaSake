@@ -9,8 +9,8 @@ I'm currently developing interactive web applications using the latest web techn
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [jessicajoseph2019@yahoo.com](mailto:jessicajoseph2019@yahoo.com)
 * 🧠  I'm mastering Nextjs 
-* 🤝  I'm open to collaborating on interesting projects
-
+* 🤝  I'm open to collaborating on interesting projects, say hi on [Twitter](https://twitter.com/forJessica_sake)
+* ♘ I play chess too, so feel free to challenge me on [Lichess](https://lichess.org/@/Forjessica_sake) whenever you're ready for some defeat. 
 ### Skills
 
 <p align="left">
