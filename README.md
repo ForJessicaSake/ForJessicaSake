@@ -1,14 +1,14 @@
-Hi 👋 I'm Jessie
+Hi 👋 I am Jessica.
 ========================
 
-A Frontend Developer
+A Frontend Developer and a Technical Writer. 
 ------------------------
 
-who creates interactive web applications using the latest web technologies.
+I'm currently developing interactive web applications using the latest web technologies. In my spare time, I enjoy exploring the world of JavaScript frameworks and Firebase to create cool applications, and I frequently publish articles on a variety of topics I learn while exploring on my [hashnode blog](https://forjessicasake.hashnode.dev)
+
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my resume at [Resume](https://drive.google.com/file/d/1MiLC3sn1jZN08Md_NCssT61b0vTlIJxf/view?usp=sharing)
 * ✉️  You can contact me at [jessicajoseph2019@yahoo.com](mailto:jessicajoseph2019@yahoo.com)
-* 🧠  I'm mastering Nextjs
+* 🧠  I'm mastering Nextjs 
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
