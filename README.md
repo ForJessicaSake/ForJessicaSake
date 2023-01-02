@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Frontend Developer and a Technical Writer
 ------------------------------------------------
 
-I'm currently developing interactive web applications using the latest web technologies. In my spare time, I enjoy exploring the world of JavaScript and Firebase to create cool applications, and I frequently publish articles on a variety of topics while exploring on my [hashnode blog](https://forjessicasake.hashnode.dev)
+I'm currently developing interactive web applications using the latest web technologies. In my spare time, I enjoy exploring the world of JavaScript and Backend-as-a-Service to create cool applications, and I frequently publish articles on a variety of topics while exploring on my [hashnode blog](https://forjessicasake.hashnode.dev)
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [jessicajoseph2019@yahoo.com](mailto:jessicajoseph2019@yahoo.com)
