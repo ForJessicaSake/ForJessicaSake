@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jessica
 ===============================================================================================================================
 
-A Frontend Developer and a Technical Writer
+A Frontend Engineer and a Technical Writer
 ------------------------------------------------
 
 I'm currently developing interactive web applications using the latest web technologies. In my spare time, I enjoy exploring the world of JavaScript and Backend-as-a-Service to create cool applications, and I frequently publish articles on a variety of topics while exploring on my [hashnode blog](https://forjessicasake.hashnode.dev)
