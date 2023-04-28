@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Frontend Developer and a Technical Writer
 ------------------------------------------------
 
-I'm currently developing interactive web applications using the latest web technologies @Brimble. In my spare time, I enjoy exploring the world of JavaScript and Backend-as-a-Service to create cool applications, and I frequently publish a variety of technical informative articles while exploring as a guest writer or on my [hashnode blog](https://forjessicasake.hashnode.dev)
+I'm currently developing interactive web applications using the latest web technologies. In my spare time, I enjoy exploring the world of JavaScript and Backend-as-a-Service to create cool applications, and I frequently publish a variety of technical informative articles while exploring as a guest writer or on my [hashnode blog](https://forjessicasake.hashnode.dev)
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🧠  Take a peek at my [Portfolio](https://portfolio-jessicajoseph.vercel.app/) and see what I've been up to.
