@@ -1,10 +1,7 @@
-Hey it's me Jessica ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## Hello there 👋🏼, I am Jessica 
 ===============================================================================================================================
 
-Frontend Developer and a Technical Writer
-------------------------------------------------------------------
-
-I'm currently developing cool web applications using the latest frontend technologies. In my spare time, I enjoy exploring the world of JavaScript and Backend-as-a-Service to create cool applications. I also frequently publish a variety of technical informative articles while exploring as a guest writer or on my [hashnode blog](https://forjessicasake.hashnode.dev)
+I am a *Frontend developer* and a *technical writer*. I'm currently developing cool web applications using the latest frontend technologies. In my spare time, I enjoy exploring the world of JavaScript and Backend-as-a-Service to create cool applications. I also frequently publish a variety of technical informative articles while exploring as a guest writer or on my [hashnode blog](https://forjessicasake.hashnode.dev)
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🧠  Take a peek at my [Portfolio](https://portfolio-jessicajoseph.vercel.app/) and see what I've been up to.
