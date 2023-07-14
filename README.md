@@ -1,6 +1,6 @@
 ## Hello there 👋🏼, I'm Jessica 
 
-I am a **Frontend developer** and a **Technical writer** and I'm currently building cool web applications using React and Next.js. In my leisure time, I enjoy exploring the world of JavaScript and Backend-as-a-Service to create cool applications and I frequently publish a variety of technical informative articles while exploring as a guest writer or on my [hashnode blog](https://forjessicasake.hashnode.dev)
+I am a **Frontend developer** and a **Technical writer** and I'm currently building cool web applications using JavaScript and its frameworks. In my leisure time, I enjoy exploring the world of JavaScript and Backend-as-a-Service to create cool applications and I frequently publish a variety of technical informative articles while exploring as a guest writer or on my [hashnode blog](https://forjessicasake.hashnode.dev)
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🧠  **Take a peek at my [Portfolio](https://portfolio-jessicajoseph.vercel.app/) and see what I've been up to**.
