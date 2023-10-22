@@ -1,4 +1,4 @@
-## Hello there 👋🏼, I'm Jessica 
+## Hello 👋🏼, I'm Jessica 
 
 I am a **Frontend developer** and a **Technical writer** and I'm currently building cool web applications using JavaScript and its frameworks. In my leisure time, I enjoy exploring web technologies and Backend-as-a-Service to create cool applications and I frequently publish a variety of technical informative articles while exploring as a guest writer or on my [hashnode blog](https://forjessicasake.hashnode.dev)
 
