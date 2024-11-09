@@ -1,6 +1,8 @@
 ## Hello 👋🏼, I'm Jessica 
 
-I am a **Frontend developer** and a **Technical writer** and I'm currently building cool web applications using JavaScript and its frameworks. In my leisure time, I enjoy exploring web technologies and Backend-as-a-Service to create cool applications and I frequently publish a variety of technical informative articles while exploring as a guest writer or on my [hashnode blog](https://forjessicasake.hashnode.dev)
+I am a detail-oriented **Frontend Engineer** who loves building quality applications using JavaScript and its frameworks. I started my journey in 2021, after attending my first tech event with SheCodeAfrica, a community I joined while studying computer science at the University of Nigeria.
+
+Since graduation, I've put my skills to the test and gained hands-on Frontend work experience by contributing to a couple of projects. I also frquently publish a variety of articles about my experiences as a Guest Writer or on my [hashnode blog](https://forjessicasake.hashnode.dev) and when I'm not doing any of these things, you'd find me with my chess board..
 
 * 🌍  I'm based in Lagos, Nigeria
 * ⚡  i am currently learning Node and Express.js
