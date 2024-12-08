@@ -1,6 +1,6 @@
 ## Hello 👋🏼, I'm Jessica 
 
-A **Frontend Engineer** with a strong eye for design and a love for writing mentainable code to craft intricate user interfaces. I started my journey in 2021, after attending my first tech campus event with SheCodeAfrica, a community I joined while studying computer science at the University of Nigeria. Over the years, I've put my skills to the test and gained hands-on experience using Javascript libraries and its frameworks. I also frquently publish a variety of articles about my experiences as a Guest Writer or on my [hashnode blog](https://forjessicasake.hashnode.dev) and when I'm not doing any of these things, you'd find me with my chess board..
+A **Frontend Engineer** with a strong eye for design and a love for writing maintainable code to craft intricate user interfaces. I started my journey in 2021, after attending my first tech campus event with SheCodeAfrica, a community I joined while studying computer science at the University of Nigeria in 2021. Over the years, I've put my skills to the test and gained hands-on experience using Javascript libraries and its frameworks. I also frquently publish a variety of articles about my experiences as a Guest Writer or on my [hashnode blog](https://forjessicasake.hashnode.dev) and when I'm not doing any of these things, you'd find me with my chess board.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ⚡  i am currently learning Node and Express.js
