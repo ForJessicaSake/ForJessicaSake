@@ -1,7 +1,6 @@
 ## Hello 👋🏼, I'm Jessica 
 
-A **Software Engineer** with a strong eye for design and a love for writing maintainable code to craft intricate user interfaces. I also frequently publish a variety of articles about my experiences as a Guest Writer or on my [hashnode blog](https://forjessicasake.hashnode.dev) and when I'm not doing any of these things, you'd find me with my chess board.
-
+A **Software Engineer** with 2 years of experience building web applications using HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express, and MongoDB. I also frequently publish a variety of articles about my experiences as a Guest Writer or on my [hashnode blog](https://forjessicasake.hashnode.dev) and when I'm not doing any of these things, you'd find me with my chess board.
 * 🌍  I'm based in Lagos, Nigeria
 * ⚡  i am currently learning c#
 * 🧠  **Take a peek at my [Portfolio](https://portfolio-jessicajoseph.vercel.app/) and see what I've been up to**.
