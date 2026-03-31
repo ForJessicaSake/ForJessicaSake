@@ -9,3 +9,4 @@ A **Software Engineer** with 3 years of experience building web applications usi
 * 🤝  I'm open to collaborating on interesting projects, say hi on [Twitter](https://twitter.com/forJessica_sake) or [LinkedIn](https://www.linkedin.com/in/jessica-joseph-/)
 * ⚡  I play chess ♘ too, so feel free to challenge me on [Lichess](https://lichess.org/@/Forjessica_sake) whenever you're up for a game.
 
+[![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForJessicaSake)](https://github.com/ForJessicaSake/github-readme-stats)
