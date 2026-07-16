@@ -4,7 +4,7 @@ A **Software Engineer** with 3 years of experience building web applications usi
 * 🌍  I'm based in Lagos, Nigeria
 * ⚡  I am currently taking a Python course.
 * ⚡  I am currently exploring Svelte
-* 🧠  **Take a peek at my [Portfolio](https://portfolio-jessicajoseph.vercel.app/) and see what I've been up to**.
+* 🧠  **Take a peek at my [Portfolio](https://jessicaworks.netlify.app) and see what I've been up to**.
 * ✉️  You can contact me at [jessicajoseph1807@gmail.com](mailto:jessicajoseph1807@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects, say hi on [Twitter](https://twitter.com/forJessica_sake) or [LinkedIn](https://www.linkedin.com/in/jessica-joseph-/)
 * ⚡  I play chess ♘ too, so feel free to challenge me on [Lichess](https://lichess.org/@/Forjessica_sake) whenever you're up for a game.
